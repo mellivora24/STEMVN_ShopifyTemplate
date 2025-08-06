@@ -22,15 +22,13 @@ ShopifyWEB/
 └── 📁 templates/                # Page templates
 ```
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 - Node.js 16+
 - Shopify CLI installed
 - Shopify Partner account
 
-
-## 🔧 Development
 
 ### Local Development
 
@@ -78,21 +76,10 @@ import { search } from './search.js';
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Support
+## Support
 
 - **Email**: thanhquyet.freelancer@gmail.com
 - **Documentation**: [Shopify Theme Development](https://shopify.dev/themes)
 - **Issues**: [GitHub Issues](https://github.com/mellivora24/stemvn-shopify-template/issues)
-
-## 🔄 Changelog
-
-### v1.0.0 (2024-01-XX)
-- ✨ Initial release based on Dawn 15.4.0
-- 🌐 Added 50+ language support
-- 🎨 Custom STEMVN branding
-- ⚡ Performance optimizations
-- ♿ Accessibility improvements
-
----
 
 **Made by Quyet Thanh at STEMVN**
