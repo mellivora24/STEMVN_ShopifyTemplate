@@ -6,8 +6,8 @@
 ## 🛠️ Tech Stack
 
 * CSS3: Styling
-* Shopify Liquid**: engine
-* Vanilla JavaScript**: Interactive functionality
+* Shopify Liquid: Engine
+* Vanilla JavaScript: Interactive functionality
 
 ## 📁 Project Structure
 
