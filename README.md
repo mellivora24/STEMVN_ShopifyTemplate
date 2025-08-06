@@ -1,24 +1,7 @@
 # 🛍️ STEMVN Shopify Template
-
-A modern, responsive Shopify theme built on Dawn 15.4.0 with enhanced features and multi-language support.
-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Liquid](https://img.shields.io/badge/Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-
-## 📋 Table of Contents
-
-- [License](#-license)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Deployment](#-deployment)
-- [Development](#-development)
-- [Contributing](#-contributing)
-- [Installation](#-installation)
-- [Customization](#-customization)
-- [Browser Support](#-browser-support)
-- [Project Structure](#-project-structure)
-- [Multi-language Support](#-multi-language-support)
 
 ## 🛠️ Tech Stack
 
