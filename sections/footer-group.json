@@ -13,6 +13,18 @@
   "sections": {
     "footer": {
       "type": "footer",
+      "blocks": {
+        "text_ELVHP7": {
+          "type": "text",
+          "settings": {
+            "heading": "Công ty TNHH thiết bị điện tử EcoreVN",
+            "subtext": "<ul><li>Lạc Long Quân - Tây Hồ - Hà Nội - Việt Nam</li><li></li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "text_ELVHP7"
+      ],
       "settings": {
         "color_scheme": "scheme-4",
         "newsletter_enable": false,
