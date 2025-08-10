@@ -131,7 +131,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Multicolumn",
+        "title": "Chi tiết thông số",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -171,7 +171,7 @@
       "settings": {
         "collection": "",
         "products_to_show": 4,
-        "title": "Featured collection",
+        "title": "Sản phẩm liên",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
