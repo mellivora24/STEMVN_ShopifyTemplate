@@ -131,7 +131,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Chi tiết thông số",
+        "title": "Chi tiết sản phẩm",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
