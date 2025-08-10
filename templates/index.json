@@ -226,37 +226,6 @@
         "padding_top": 16,
         "padding_bottom": 16
       }
-    },
-    "rich_text_qdCG3a": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Hjhtje": {
-          "type": "heading",
-          "settings": {
-            "heading": "EcoreVN - Cung cấp linh kiện & thiết bị điện tử",
-            "heading_size": "h2"
-          }
-        },
-        "text_QaCgk4": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Hjhtje",
-        "text_QaCgk4"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-4",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -265,7 +234,6 @@
     "featured_collection",
     "featured_collection_9wmDQ6",
     "multicolumn_GBypFP",
-    "contact_form_gk3C8W",
-    "rich_text_qdCG3a"
+    "contact_form_gk3C8W"
   ]
 }
