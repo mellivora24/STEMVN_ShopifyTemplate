@@ -136,7 +136,7 @@
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "collection": "",
+        "collection": "test",
         "products_to_show": 4,
         "title": "Tất cả sản phẩm",
         "heading_size": "h1",
