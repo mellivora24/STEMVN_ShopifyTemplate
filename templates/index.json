@@ -233,8 +233,8 @@
         "heading_Hjhtje": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading": "EcoreVN - Cung cấp linh kiện & thiết bị điện tử",
+            "heading_size": "h2"
           }
         },
         "text_QaCgk4": {
@@ -252,7 +252,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "scheme-3092e33e-e03d-45b8-86b9-b8d67d19b383",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
