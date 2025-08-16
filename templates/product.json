@@ -106,7 +106,7 @@
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "collection": "",
+        "collection": "fpga-cpld",
         "products_to_show": 4,
         "title": "Sản phẩm liên quan",
         "heading_size": "h1",
@@ -127,24 +127,6 @@
         "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "featured_blog_ftnBwT": {
-      "type": "featured-blog",
-      "name": "t:sections.featured-blog.presets.name",
-      "settings": {
-        "blog": "",
-        "post_limit": 3,
-        "heading": "Bài viết liên quan",
-        "heading_size": "h1",
-        "columns_desktop": 3,
-        "show_view_all": true,
-        "show_image": true,
-        "show_date": true,
-        "show_author": false,
-        "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -172,7 +154,6 @@
     "main",
     "rich_text_xnhz97",
     "featured_collection_3BELi3",
-    "featured_blog_ftnBwT",
     "related-products"
   ]
 }
