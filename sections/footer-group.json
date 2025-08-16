@@ -14,7 +14,9 @@
     "footer": {
       "type": "footer",
       "custom_css": [
-        "footer {position: fixed; bottom: 0; width: 100%; margin: 0; padding: 10px; padding-bottom: 36px; text-align: center;}"
+        "html, body {height: 100%; margin: 0;}",
+        "body {display: grid; grid-template-rows: auto 1fr auto; /* header | nội dung | footer */}",
+        "footer {padding-bottom: 38px;}"
       ],
       "settings": {
         "color_scheme": "scheme-4",
