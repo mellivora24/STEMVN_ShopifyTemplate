@@ -15,7 +15,7 @@
         "title": "Danh mục sản phẩm",
         "sort": "date_reversed",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 4,
         "columns_mobile": "2"
       }
     }
