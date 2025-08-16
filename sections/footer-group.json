@@ -14,7 +14,7 @@
     "footer": {
       "type": "footer",
       "custom_css": [
-        "footer {bottom: 0px; margin: 0px}"
+        "footer {bottom: 0px; padding: 0px;}"
       ],
       "settings": {
         "color_scheme": "scheme-4",
