@@ -14,7 +14,7 @@
     "footer": {
       "type": "footer",
       "custom_css": [
-        "footer {position: fixed; bottom: 0; left: 0; width: 100%; margin: 0; padding: 10px; padding-bottom: 36px; background: #333; color: white; text-align: center;}"
+        "footer {position: fixed; bottom: 0; left: 0; width: 100%; margin: 0; padding: 10px; padding-bottom: 36px; color: white; text-align: center;}"
       ],
       "settings": {
         "color_scheme": "scheme-4",
