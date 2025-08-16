@@ -35,12 +35,8 @@
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
+            "show_gift_card_recipient": false
           }
-        },
-        "rating_yCWNgQ": {
-          "type": "rating",
-          "settings": {}
         }
       },
       "block_order": [
@@ -48,8 +44,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons",
-        "rating_yCWNgQ"
+        "buy_buttons"
       ],
       "settings": {
         "enable_sticky_info": true,
